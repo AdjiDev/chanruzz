@@ -12,7 +12,7 @@ global.view = true
 
 // config bot
 global.botname = "ichanbot"
-global.botnumber = "6283164470681"
+global.botnumber = "62xx"
 //global.thumb = fs.readFileSync("./src/thumbnail.jpg")
 global.thumb2 = "https://imgkub.com/images/2025/03/16/ayang.jpg"
 //global.button = false
@@ -20,7 +20,7 @@ global.prefix = ["/", "!", ".", "#"] // default prefix is "/" if no prefix provi
 
 // config owner
 global.ownername = "Chanruzzdev | Adjidev"
-global.owner = ["639369328318", "6288801163320"] 
+global.owner = ["62xx"] 
 global.devmode = true // use at your own risk set to false for safe usage
 global.email = "admin@adjisandev.tech"
 
